@@ -3,12 +3,11 @@
 * {
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
     font-family: 'Roboto', sans-serif;
 }
 
 body {
-    background-image: url("img/bg.jpg");
+    background-image: url("img/bg.png");
     background-repeat: repeat;
 }
 
@@ -119,7 +118,6 @@ body {
 
 .content {
     margin: 10px;
-
 }
 
 .content .title-name {
