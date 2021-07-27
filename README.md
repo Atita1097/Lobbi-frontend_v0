@@ -1,2 +1,6 @@
-# Lobbi-frontend_v0
-hi
+# Lobbi-frontend 
+
+WARNING! This area is still underconstruction..
+
+##Stay tuned!!
+
